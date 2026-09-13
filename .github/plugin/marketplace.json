@@ -1,0 +1,19 @@
+{
+  "name": "fast-resume",
+  "metadata": {
+    "description": "Fast Resume Marketplace",
+    "version": "0.1.0"
+  },
+  "owner": {
+    "name": "Lanbao Shen",
+    "email": "lanbaoshen@icloud.com"
+  },
+  "plugins": [
+    {
+      "name": "fast-resume",
+      "description": "Fast Resume provides guided interviews, concise HTML resume and JD-match assessments, live previews, and validated PDF export for truthful, job-tailored resumes.",
+      "version": "0.1.0",
+      "source": "./plugins/fast-resume"
+    }
+  ]
+}
